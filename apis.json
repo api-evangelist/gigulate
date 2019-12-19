@@ -1,0 +1,56 @@
+{
+    "name": "Gigulate",
+    "description": "Music News, Blogs & Concert Listings, sorted.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/412-gigulate.jpg",
+    "tags": [
+        "api provider",
+        "have api",
+        "music"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/gigulate\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Gigulate",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/412-gigulate.jpg",
+            "humanURL": "http:\/\/gigulate.com\/api\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": []
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.gigulate.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.gigulate.com\/?feed=rss2"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/gigulate"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/gigulate"
+        },
+        {
+            "type": "Email",
+            "url": "humans@gigulate.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/gigulate"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/gigulate.com\/api\/"
+        }
+    ]
+}
